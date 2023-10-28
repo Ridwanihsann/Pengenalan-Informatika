@@ -1,45 +1,58 @@
-Membuat aplikasi Chat
+Membuat aplikasi Musik dan Podcast
 
 ## 1.1 Latar Belakang
 
-Internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik sekarang. Percayakah Anda bahwa 20 tahun yang lalu kita semua memiliki pemutar MP3 dan CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik diproduksi di ujung jari kita? Apa pun selera dan lokasi musik Anda, perpustakaan musik Anda akan selalu ada segera setelah langganan Anda aktif. 
+Saat ini perkembangan teknologi begitu pesat terutama internet, internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik. Jika kita mengingat 20 tahun yang lalu kita semua memiliki pemutar MP3 atau CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik dapat kita putar hanya dengan ujung jari kita. Apa pun apapun kesukaan musik kita, perpustakaan musik Anda akan selalu ada segera setelah langganan Anda aktif. 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
-Aplikasi yang akan saya buat yaitu sebuah aplikasi chat yang akan diberi nama MrChat yang mana nanti pengguna dapat berkominikasi dengan mengirim atau menerima chat atau dapat juga melakukan panggilan, dan pengguna juga dapat melihat atau mengirim status berupa image, video, atau cuitan, serta pengguna dapat mencari teman yang berada disekitarnya. 
+Aplikasi yang akan saya buat yaitu sebuah aplikasi Musik dan podcast yang akan diberi nama Mr MuCast yang mana nanti pengguna dapat mencari dan mendengarkan music atau podcast yang diinginkan untuk menemani sebelum tidur, makan, belajar atau aktivitas lainnya. Selain itu di aplikasi tersebut saya akan media untuk berkomunikasi antara pengguna l dan pengguna lainnya, bahkan dapat membuat suatu komunitas atau grup sehingga setiap pengguna dapat berkomunikasi dan berbagi musik kepada pengguna lain atau komunitasnya. Dan selain berbagi musik, pengguna juga dapat mendengarkan lagu secara bersamaan dengan komunitas atau pengguna lain.
 
 ## 1.3. Branding
 
 Branding dari aplikasi yang akan saya buat meliputi:
 
-Merk : MrChat
-Nama merk "Mr" di ambil dari inisial nama saya sendiri yaitu "Muhammad Ridwan Nur Ihsan" yang diambil 2 huruf depan nama saya, dan dapat diartikan juga semagai "Tuan" yang diambil dari bahasa Inggris 
+Merk : Mr MuCast  
+Nama merk Mr MuCast tersebut diambil dari inisial nama saya sendiri, yang mana "Mr" yaitu "Muhammad Ridwan Nur Ihsan" yang diambil dari 2 huruf depan nama saya, dan dapat diartikan juga sebagai "Tuan" jika diterjemahkan dari bahasa Inggris. Dan "MuCast" itu sendiri singkatan dari Music & PodCast.
 
-Tagline: Agar silaturammi tidak terputus, komunikasi lah terus menerus
+Tagline: Demus membuat gembira terus menerus.
 
-Campaign: Bagaimana membuat aplikasi untuk penggunanya yang dapat berkomunikasi dengan mudah, simpel, dan yang pasti silaturahmi tidak akan putus walau tanpa meminjam seratus
+Campaign: aplikasi yang dapat menemani aktivitas sehari-hari untuk kamu pendengar music dan podcast sejati. Simpel, mudah, dan yang pasti silaturahmi tidak akan putus walau tanpa meminjam seratus, karena dapat berkomunikasi terus menerus.
 
 Target user: Usia 7+
-- Seorang yang sering bekomunikasi dengan siapaun
+- Untuk para pendengar musik & podcast sejati
+- Untuk yang ingin mendengarkan musik & podcast dengan mudah dan nyaman
+- Seorang yang ingin berbagi musik kesukaannya
+- Seorang yang ingin mendengarkan lagu bersama-sama
 - Seorang yang tidak ingin silaturahminya terputus
 - Seorang yang ingin berkomusikasi dengan mudah
 
 User experience theme:
-- Mudah
-- Simple
+- Aplikasi menarik
+- Mudah digunakan
+- Tampilan yang simple
+- Fitur yang melimpah
 - Menyenangkan
 - Warna: dark blue yang tidak akan membuat mata cepat lelah
+
+Inspirasi :
 
 ## 2. User Story
 
 Sebagai | Yang dapat dilakukan | sehingga | Priorotas
 ---|---|---|---
-Pengguna | Mengirim pesan | Dapat menyampaikan suatu pesan ke pengguna lain | ⭐⭐⭐⭐⭐
-Pengguna | Menerima pesan | Dapat menerima pesan dari pengguna lain | ⭐⭐⭐⭐⭐
-pengguna | Melakukan panggilan | Dua pengguna atau lebih dapat melakukan panggilan | ⭐⭐⭐⭐
-Pengguna | Membuat story | Dapat mengirim image, vedeo atau cuitan | ⭐⭐⭐
-Pengguna | Membalas story | Dapat membalas/berkomentar story pengguna lain | ⭐⭐⭐
-Pengguna | Mencari teman disekitar | Dapat menemukan pengguna lain disekitarnya | ⭐⭐⭐
+Pengguna | Mencari musik | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐⭐
+Pengguna | Mencari podcast | Dapat Mencari podcast yang di inginkan | ⭐⭐⭐⭐⭐
+Pengguna | mendengarkan musik | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
+Pengguna | mendengarkan podcast | Dapat mendengarkan podcast dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
+Pengguna | mendengarkan musik | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
+Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐⭐
+Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐⭐
+Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐⭐⭐
+pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐⭐
+Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
+Pengguna | Menyukai lagu | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
+Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
 
 ## 3. Struktur Data
 
