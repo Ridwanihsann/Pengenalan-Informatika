@@ -2,7 +2,7 @@ Membuat aplikasi Musik dan Podcast
 
 ## 1.1 Latar Belakang
 
-Saat ini perkembangan teknologi begitu pesat terutama internet, internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik. Jika kita mengingat 20 tahun yang lalu kita semua memiliki pemutar MP3 atau CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik dapat kita putar hanya dengan ujung jari kita. Apa pun apapun kesukaan musik kita, perpustakaan musik Anda akan selalu ada segera setelah langganan Anda aktif. 
+Saat ini perkembangan teknologi begitu pesat terutama internet, internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik. Jika kita mengingat 20 tahun yang lalu kita semua memiliki pemutar MP3 atau CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik dapat kita putar hanya dengan ujung jari kita, apa pun apapun kesukaan musik kita. Saat ini jumlah pengguna di industri streaming musik diperkirakan akan tumbuh menjadi 913,2 juta pengguna pada tahun 2025, menurut Statista . Dan pendapatan dari segmen ini diproyeksikan tumbuh pada tingkat tahunan (CAGR 2021-2025) sebesar 10,08% hingga tahun 2025. 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
@@ -48,6 +48,7 @@ Pengguna | mendengarkan podcast | Dapat mendengarkan podcast dengan mudah dan ny
 Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐
 Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐
 Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐⭐
+Pengguna | Melihat lirik | Dapat mendengarkan sambil membaca lirik yang disediakan | ⭐⭐⭐⭐
 pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐
 Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
 Pengguna | Berteman | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
@@ -121,7 +122,7 @@ Teknologi yang akan saya gunakan dalam pembuatan aplikasi ini diantaranya yaitu 
 
 ## 6. Desain User Experience dan User Interface
 
-![alt text](https://github.com/Ridwanihsann/Job_Interview/blob/main/ux.png?raw=true)
+![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/Mr%20MuCast1.png?raw=true)
 
 ## 7. Demonstrasi Video
 
