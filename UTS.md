@@ -45,42 +45,66 @@ Pengguna | Mencari musik | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐�
 Pengguna | Mencari podcast | Dapat Mencari podcast yang di inginkan | ⭐⭐⭐⭐⭐
 Pengguna | mendengarkan musik | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
 Pengguna | mendengarkan podcast | Dapat mendengarkan podcast dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
-Pengguna | mendengarkan musik | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
-Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐⭐
-Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐⭐
-Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐⭐⭐
-pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐⭐
+Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐
+Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐
+Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐⭐
+pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐
 Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
+Pengguna | Berteman | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
 Pengguna | Menyukai lagu | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
-Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
+Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
-
 ```mermaid
 erDiagram
-    Pengguna {
+  Pengguna {
     int no_handphone
     String username
+    String Email
+    String Password
     String nama_lengkap
+  }
+  Pengguna ||--o{ Beranda : menampilkan
+  Beranda {
+    String kategori_rekomendasi
+    int id_lagu_rekomendasi
+  }
+Pengguna ||--o{ Pencarian : menampilkan
+  Pencarian {
+    String searchBar
+    String pencarian_terakhir
+    String rekomendasi_sesuai_kategori_genre_atau_yang_sedang_trend
   }
   Pengguna ||--o{ Chats : menampilkan
   Chats {
     Stirng username_pengguna_lain
+    int id_komunitas
     String pesan_terakhir
   }
-  Pengguna ||--o{ Story : membuat
-  Story ||--o{ Story : membalas 
-  Story {
-    String story_pengguna
-    String username_pengguna_lain
-    String story_pengguna_lain
-    datetime waktu_publikasi 
+  Pengguna ||--o{ Koleksi : menampilkan
+  Koleksi {
+    String disukai
+    String playlist
   }
-  Pengguna ||--o{ Kontak : memiliki
-  Kontak {
-    String username
-    int no_handphone
+  Koleksi ||--o{ Disukai : menampilkan
+  Disukai {
+    int id_lagu_disukai
+  }
+  Koleksi ||--o{ Playlist : membuat
+  Playlist {
+    int id_playlist
+    int id_kategori_playlist
+  }
+  Playlist ||--|{ Kategori : menampilkan
+  Kategori {
+    int id_lagu_yang_disukai
+  }
+  Pengguna ||--o{ Pengikut : memiliki
+  Pengguna ||--o{ Pengikut : mengikuti
+  Pengikut {
+    int id_pengguna
+    int id_pengguna_mengikuti
   }
 ```
 
