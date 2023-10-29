@@ -76,12 +76,6 @@ Pengguna ||--o{ Pencarian : menampilkan
     String pencarian_terakhir
     String rekomendasi_sesuai_kategori_genre_atau_yang_sedang_trend
   }
-  Pengguna ||--o{ Chats : menampilkan
-  Chats {
-    Stirng username_pengguna_lain
-    int id_komunitas
-    String pesan_terakhir
-  }
   Pengguna ||--o{ Koleksi : menampilkan
   Koleksi {
     String disukai
@@ -100,6 +94,12 @@ Pengguna ||--o{ Pencarian : menampilkan
   Kategori {
     int id_lagu_yang_disukai
   }
+  Pengguna ||--o{ Chats : menampilkan
+  Chats {
+    Stirng username_pengguna_lain
+    int id_komunitas
+    String pesan_terakhir
+  }
   Pengguna ||--o{ Pengikut : memiliki
   Pengguna ||--o{ Pengikut : mengikuti
   Pengikut {
@@ -112,7 +112,7 @@ Pengguna ||--o{ Pencarian : menampilkan
 
 ```mermaid
 graph TD;
-    Database:FireBase<-->Aplikasi_web_Backend:Java<-->Aplikasi_android:Java;
+    Database:PostgreSQL,MongoDB,MySQL<-->Aplikasi_web_Backend:Java,Node.js,Python<-->Web_Server:nginx<-->Aplikasi_android:Kotlin_for_Android_Swift_for_iOS_or-ReactNative
 ```
 
 ## 5. Teknologi, Library, dan Framework
