@@ -35,7 +35,11 @@ User experience theme:
 - Menyenangkan
 - Warna: dark blue yang tidak akan membuat mata cepat lelah
 
-Inspirasi :
+Inspirasi :  
+![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/img/images%20(2).jpeg?raw=true)
+![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/img/images%20(1).jpeg?raw=true)
+![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/img/Music-pro-app-design1-preview_mobile.jpg?raw=true)
+![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/img/4e4aa9979e2fa2afa5a9a6ca3151e8177047c03f.webp?raw=true)
 
 ## 2. User Story
 
@@ -48,13 +52,13 @@ Pengguna | mendengarkan podcast | Dapat mendengarkan podcast dengan mudah dan ny
 Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐
 Pengguna | Melikat artis profile | Dapat melihat prifile artis | ⭐⭐⭐⭐
 Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐
-Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐⭐
+Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐
 Pengguna | Melihat lirik | Dapat mendengarkan sambil membaca lirik yang disediakan | ⭐⭐⭐⭐
 pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐
 Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
 Pengguna | Berteman | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
 Pengguna | Menyukai lagu | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
-Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐⭐
+Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
 
 ## 3. Struktur Data
 
@@ -130,7 +134,7 @@ Teknologi yang akan saya gunakan dalam pembuatan aplikasi ini diantaranya yaitu 
 
 ## 6. Desain User Experience dan User Interface
 
-![alt text](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/Mr%20MuCast1.png?raw=true)
+![desain](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/Mr%20MuCast1.png?raw=true)
 
 ## 7. Demonstrasi Video
 
