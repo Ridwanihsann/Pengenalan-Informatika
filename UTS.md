@@ -115,13 +115,6 @@ Pengguna ||--o{ Pencarian : menampilkan
 ```
 
 ## 4. Arsitektur Sistem
-Versi ideal :
-```mermaid
-graph TD;
-    Database:PostgreSQL,MongoDB,MySQL<-->Aplikasi_web_Backend:Java,Node.js,Python<-->Web_Server:nginx<-->Aplikasi_android:Kotlin_for_Android_Swift_for_iOS_or-ReactNative
-```
-
-Versi biasa :
 
 ```mermaid
 graph TD;
@@ -134,7 +127,7 @@ Teknologi yang akan saya gunakan dalam pembuatan aplikasi ini diantaranya yaitu 
 
 ## 6. Desain User Experience dan User Interface
 
-![desain](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/Mr%20MuCast1.png?raw=true)
+![desain](https://github.com/Ridwanihsann/Pengenalan-Informatika/blob/main/img/Mr%20MuCast1.png?raw=true)
 
 ## 7. Demonstrasi Video
 
