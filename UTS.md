@@ -2,7 +2,9 @@ Membuat aplikasi Musik dan Podcast
 
 ## 1.1 Latar Belakang
 
-Saat ini perkembangan teknologi begitu pesat terutama internet, internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik. Jika kita mengingat 20 tahun yang lalu kita semua memiliki pemutar MP3 atau CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik dapat kita putar hanya dengan ujung jari kita, apa pun apapun kesukaan musik kita. Saat ini jumlah pengguna di industri streaming musik diperkirakan akan tumbuh menjadi 913,2 juta pengguna pada tahun 2025, menurut Statista . Dan pendapatan dari segmen ini diproyeksikan tumbuh pada tingkat tahunan (CAGR 2021-2025) sebesar 10,08% hingga tahun 2025. Maka dari itu penggunaan aplikasi musik akan terus meningkat juga, sehingga akan membuka banyak peluang untuk mencoba bersaing dalam perkembangan teknologi informasi di bidang musik itu.
+Saat ini perkembangan teknologi begitu pesat terutama internet, internet merevolusi kehidupan kita dalam banyak hal, termasuk cara kita mendengarkan musik. Jika kita mengingat 20 tahun yang lalu kita semua memiliki pemutar MP3 atau CD, tetapi sekarang kita dapat berlangganan aplikasi streaming musik dan semua musik dapat kita putar hanya dengan ujung jari kita, apa pun apapun kesukaan musik kita.
+
+Saat ini jumlah pengguna di industri streaming musik diperkirakan akan tumbuh menjadi 913,2 juta pengguna pada tahun 2025, menurut Statista . Dan pendapatan dari segmen ini diproyeksikan tumbuh pada tingkat tahunan (CAGR 2021-2025) sebesar 10,08% hingga tahun 2025. Maka dari itu penggunaan aplikasi musik akan terus meningkat juga, sehingga akan membuka banyak peluang untuk mencoba bersaing dalam perkembangan teknologi informasi di bidang musik itu.
 
 ## 1.2. Deksripsi Teknologi Informasi
 
