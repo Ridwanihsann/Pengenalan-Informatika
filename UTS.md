@@ -61,6 +61,8 @@ Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarka
 Pengguna | Berteman | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
 Pengguna | Menyukai lagu | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
 Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
+Pengguna | Melihat riwayat | Dapat melihat riwayat lagu yang pernah di dengar 3/7 hari teralhir | ⭐⭐⭐
+
 
 ## 3. Struktur Data
 
