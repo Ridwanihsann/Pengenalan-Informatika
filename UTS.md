@@ -45,23 +45,24 @@ Inspirasi :
 
 ## 2. User Story
 
-Sebagai | Yang dapat dilakukan | sehingga | Priorotas
+Sebagai | Yang dapat dilakukan | Priorotas
 ---|---|---|---
-Pengguna | Mencari musik | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐⭐
-Pengguna | Mencari podcast | Dapat Mencari podcast yang di inginkan | ⭐⭐⭐⭐⭐
-Pengguna | mendengarkan musik | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
-Pengguna | mendengarkan podcast | Dapat mendengarkan podcast dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
-Pengguna | Membuat profile | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐
-Pengguna | Melikat artis profile | Dapat melihat prifile artis | ⭐⭐⭐⭐
-Pengguna | Berkomunikasi | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐
-Pengguna | Membuat komunitas atau grup | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐
-Pengguna | Melihat lirik | Dapat mendengarkan sambil membaca lirik yang disediakan | ⭐⭐⭐⭐
-pengguna | Berbagi musik | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐
-Pengguna | Mendengar bersama | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
-Pengguna | Berteman | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
-Pengguna | Menyukai lagu | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
-Pengguna | Membuat playlist | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
-Pengguna | Melihat riwayat | Dapat melihat riwayat lagu yang pernah di dengar 3/7 hari teralhir | ⭐⭐⭐
+Pengguna | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐⭐
+Pengguna | Dapat Mencari podcast yang di inginkan | ⭐⭐⭐⭐⭐
+Pengguna | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
+Pengguna | Dapat mendengarkan podcast dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
+Pengguna | Dapat membuat atau melengkapi profile | ⭐⭐⭐⭐
+Pengguna | Dapat melihat prifile artis | ⭐⭐⭐⭐
+Pengguna | Dapat berkomunikasi dengan pengguna lain | ⭐⭐⭐⭐
+Pengguna | Dapat membuat komunitas dengan 2 pengguna lain atau lebih | ⭐⭐⭐
+Pengguna | Dapat mendengarkan sambil membaca lirik yang disediakan | ⭐⭐⭐⭐
+pengguna | Dapat berbagi musik antara 1 pengguna dengan pengguna lain | ⭐⭐⭐
+pengguna | Dapat berbagi musik ke kedia soaial | ⭐⭐⭐
+Pengguna | 2 pengguna atau dalam komunitas dapat mendengarkan lagu yang sama | ⭐⭐⭐
+Pengguna | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
+Pengguna | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
+Pengguna | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
+Pengguna | Dapat melihat riwayat lagu yang pernah di dengar 3/7 hari teralhir | ⭐⭐⭐
 
 
 ## 3. Struktur Data
