@@ -46,7 +46,7 @@ Inspirasi :
 ## 2. User Story
 
 Sebagai | Yang dapat dilakukan | Priorotas
----|---|---|---
+---|---|---
 Pengguna | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐⭐
 Pengguna | Dapat Mencari podcast yang di inginkan | ⭐⭐⭐⭐⭐
 Pengguna | Dapat mendengarkan musik dengan mudah dan nyaman | ⭐⭐⭐⭐⭐
@@ -63,6 +63,11 @@ Pengguna | Setiap pengguna dapat saling mengikuti | ⭐⭐⭐
 Pengguna | Setiap pengguna dapat menyukai lagu yang disuka| ⭐⭐⭐
 Pengguna | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
 Pengguna | Dapat melihat riwayat lagu yang pernah di dengar 3/7 hari teralhir | ⭐⭐⭐
+pengguna | Dapat membuat playlist kolaboratif bersama 1 pengguna atau lebih | ⭐⭐⭐
+pengguna | Dapat menjadwalkan untuk memberhentikan lagu otomatis sesuai yang di inginkan | ⭐⭐⭐
+pengguna |  | ⭐⭐⭐
+pengguna |  | ⭐⭐⭐
+pengguna |  | ⭐⭐⭐  
 
 
 ## 3. Struktur Data
