@@ -65,7 +65,7 @@ Pengguna | Dapat membuat 1 atau lebih playlist | ⭐⭐⭐
 Pengguna | Dapat melihat riwayat lagu yang pernah di dengar 3/7 hari teralhir | ⭐⭐⭐
 pengguna | Dapat membuat playlist kolaboratif bersama 1 pengguna atau lebih | ⭐⭐⭐
 pengguna | Dapat menjadwalkan untuk memberhentikan lagu otomatis sesuai yang di inginkan | ⭐⭐⭐
-pengguna |  | ⭐⭐⭐
+pengguna |  | ⭐⭐
 pengguna |  | ⭐⭐⭐
 pengguna |  | ⭐⭐⭐  
 
