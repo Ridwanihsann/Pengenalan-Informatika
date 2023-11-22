@@ -10,6 +10,19 @@ Saat ini jumlah pengguna di industri streaming musik diperkirakan akan tumbuh me
 
 Aplikasi yang akan saya buat yaitu sebuah aplikasi Musik dan podcast yang akan diberi nama Mr MuCast yang mana nanti pengguna dapat mencari dan mendengarkan music atau podcast yang diinginkan untuk menemani sebelum tidur, makan, belajar atau aktivitas lainnya. Selain itu di aplikasi tersebut saya akan media untuk berkomunikasi antara pengguna l dan pengguna lainnya, bahkan dapat membuat suatu komunitas atau grup sehingga setiap pengguna dapat berkomunikasi dan berbagi musik kepada pengguna lain atau komunitasnya. Dan selain berbagi musik, pengguna juga dapat mendengarkan lagu secara bersamaan dengan komunitas atau pengguna lain.
 
+Berikut adalah beberapa fitur utama MrMuCast:
+
+1. **Mendengarkan lagu dan poscast**: Aplikasi ini dapat menemani anda melakukan aktivitas sehari-hari, yang dapat didengar saat sedang belajar, makan, sebelum tidur, diperjalanan dan kegiatan lainya. Ini dapat membantu Anda merasa lebih senang dan produktif.
+
+2. **Mencari lagu**: Didalam aplikasi musik tentu saja harus memiliki fitur pencarian musik atau podcast, karena untuk memenuhi keinginan anda yang sedang ingin mendengarkan lagu sesuai yang anda mau.
+
+3. **Rekomendasi playlist**: Tentu saja didalam aplikasi ini akan ada rekomendasi playlist dengan berbagai jenis kategori, seperti playlist sesuai genre, mood, album artis, aktivitas yang dilakukan, yang sedang trend dan sebagainya.
+
+4. **Obrolan**: MrMuCast juga memiliki media sederhana untuk berkomunikasi antara pengguna satu dengan pengguna lain, dan didalam fitur obrolan itu juga pengguna dapat membuat suatu komunitas atau group yang terdiri lebih dari 2 pengguna.
+
+5. **Manajemen Profil Pengguna**: Anda dapat membuat profil pribadi Anda dan mengelola informasi pribadi Anda dalam aplikasi ini. Ini memungkinkan MrMuCast dapat memberikan rekomendasi lagu atau podcast yang lebih akurat berdasarkan karakteristik Anda.
+
+
 ## 1.3. Branding
 
 Branding dari aplikasi yang akan saya buat meliputi:
@@ -21,7 +34,7 @@ Tagline: Demus membuat gembira terus menerus.
 
 Campaign: aplikasi yang dapat menemani aktivitas sehari-hari untuk kamu pendengar music dan podcast sejati. Simpel, mudah, dan yang pasti silaturahmi tidak akan putus walau tanpa meminjam seratus, karena dapat berkomunikasi terus menerus.
 
-Target user: Usia 7+
+Target user:
 - Untuk para pendengar musik & podcast sejati
 - Untuk yang ingin mendengarkan musik & podcast dengan mudah dan nyaman
 - Seorang yang ingin berbagi musik kesukaannya
@@ -45,6 +58,7 @@ Inspirasi :
 
 ## 2. User Story
 
+Pengguna :
 Sebagai | Yang dapat dilakukan | Priorotas
 ---|---|---
 Pengguna | Dapat Mencari musik yang di inginkan | ⭐⭐⭐⭐⭐
@@ -67,7 +81,17 @@ pengguna | Dapat membuat playlist kolaboratif bersama 1 pengguna atau lebih | �
 pengguna | Dapat menjadwalkan untuk memberhentikan lagu otomatis sesuai yang di inginkan | ⭐⭐⭐
 pengguna |  | ⭐⭐
 pengguna |  | ⭐⭐⭐
-pengguna |  | ⭐⭐⭐  
+pengguna |  | ⭐⭐⭐ 
+pengguna |  | ⭐⭐⭐
+pengguna |  | ⭐⭐⭐
+
+Administrator :
+Sebagai | Yang dapat dilakukan | Priorotas
+---|---|---
+administrator | Memonitor kinerja server dan basis data untuk memastikan aplikasi berjalan dengan baik. | ⭐⭐⭐⭐⭐
+administrator | Memiliki kontrol terhadap konten yang dibagikan atau direkomendasikan. | ⭐⭐⭐⭐
+administrator | Memiliki akses ke alat administrasi untuk mengelola pengguna dan aktivitas. | ⭐⭐⭐⭐
+administrator | Menjalankan tugas pemeliharaan dan pembaruan perangkat lunak. | ⭐⭐⭐
 
 
 ## 3. Struktur Data
