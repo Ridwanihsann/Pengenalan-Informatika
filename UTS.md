@@ -165,7 +165,7 @@ Teknologi yang akan saya gunakan dalam pembuatan aplikasi ini diantaranya yaitu 
 
 ## 7. Demonstrasi Video
 
-Link youtube nya
+https://youtu.be/XukVEgnbWOM
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
